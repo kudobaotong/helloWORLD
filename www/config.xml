@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloWorld"
+        id        = "com.cynthiabao.helloWorld"
         version   = "1.0.0">
 
     <name>Hello World</name>
@@ -12,8 +12,8 @@
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://jonasyeung.com" email="yeungc3@gmail.com">
-        Chiu Yeung
+    <author href="http://cynthiabao.com" email="kudobaotong@gmail.com">
+        Cynthia Bao
     </author>
 
     <!--
